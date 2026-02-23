@@ -7,4 +7,4 @@ z=\sqrt{4-x^2-2y^2}\\
 \eval{\pdv{z}{y}}_{x=1,y=-1}=2\\
 z-1=-(x-1)+2(y+1)\\
 \boxed{z=-x+2y+4}
-$
+$ así se obtiene la ecuación del plano tangente a la superficie dada en el punto (1,-1,1).
